@@ -1,0 +1,130 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family:'Langar', cursive;
+  font-size: 2rem;
+  color : #40514E;
+}
+
+h1{
+  font-size: 5.5rem;
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento',cursive ;
+  color: #66BFBF;
+}
+
+h2{
+  color: #66BFBF;
+  font-weight: normal;
+  margin-top: 0;
+}
+
+h3{
+  color:  #11999E;
+}
+
+a{
+  color:  #11999E;
+  margin-right: 35px;
+}
+.topcontainer{
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.cloudright{
+  width: 300px;
+  position: absolute;
+  right: 200px;
+  top: 400px;
+}
+.cloudleft{
+  width: 300px;
+  position: absolute;
+  left: 300px;
+  top: 100px;
+}
+.mountain{
+  width: 1050px;
+}
+.icon{
+  width: 25px;
+  height: 25px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: auto;
+  text-align: left;
+}
+
+.skill1{
+  margin-right: 40px;
+  float: left;
+}
+.skill2{
+  margin-right: 40px;
+  float: right;
+}
+hr{
+  border-style: dotted none none;
+  width: 5%;
+  border-color: #EAF6F6;
+  border-width: 15px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom:30px ;
+}
+.end{
+  color: #EAF6F6;
+  font-size: 1rem;
+  padding-top: 50px;
+  padding-bottom: 20px ;
+}
+.profileimg{
+  width: 400px;
+}
+.contact-me{
+  margin: 100px auto 100px auto;
+}
+.middle-container{
+  margin-top: 100px;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 13;
+  -moz-border-radius: 13;
+  border-radius: 13px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  border: solid #1f628d 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.footer-link{
+    text-decoration: none;
+}
+a:hover{
+  color: #eaf6f6;
+}
